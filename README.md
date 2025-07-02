@@ -1,7 +1,9 @@
 # 📊 Motorola Sales Insights Dashboard – Power BI Project
 
-![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/b8ec44ad-9858-4347-ba47-e18806f3ae78)
-)
+## 🖼️ Dashboard Preview
+![Motorola Sales Insights Dashboard – Power BI Project](https://github.com/user-attachments/assets/e19cb514-2c0d-4362-a08f-2a01c6012e47)
+
+
 
 ## 📝 Project Description
 
@@ -66,12 +68,6 @@ Motorola-Sales-Dashboard/
 ## 👨‍🏫 Educator
 
 This project was developed as part of a Power BI training by **Mr. Satish Dhawale** via **Skill Course**. Thanks for the hands-on teaching and real-world case studies!
-
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Full View](![image](https://github.com/user-attachments/assets/990a2ef9-4e80-4f28-ac38-be4b3d3ec89f))
 
 ---
 
