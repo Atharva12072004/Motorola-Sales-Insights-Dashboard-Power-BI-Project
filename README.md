@@ -37,21 +37,8 @@ _______________________________________________________________
 
 ## 📂 Folder Structure
 
-Motorola-Sales-Dashboard/
-│
-├── 📁 Day -30 - Icon set/
-│   ├── Motorola.png
-│   ├── Average.png
-│   ├── Max Icon.png
-│   ├── Quanity.png
-│   ├── Transactions.png
-│   ├── Average 2.png
-│
-├── LICENSE
-├── Mobile Sales Data.xlsx
-├── Mobiles Sales Dashboard.pbix
-├── Motorola Sales Insights Dashboard – Power BI Screenshot.png
-├── README.md
+![image](https://github.com/user-attachments/assets/3fad93e5-b1de-4e6d-9e2a-38b60bdd5337)
+
 
 
 ---
