@@ -1,6 +1,7 @@
 # 📊 Motorola Sales Insights Dashboard – Power BI Project
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/b8ec44ad-9858-4347-ba47-e18806f3ae78)
+)
 
 ## 📝 Project Description
 
@@ -34,9 +35,21 @@ _______________________________________________________________
 
 ## 📂 Folder Structure
 
-
-
-
+Motorola-Sales-Dashboard/
+│
+├── 📁 Day -30 - Icon set/
+│ ├── Motorola.png
+│ ├── Average.png
+│ ├── Max Icon.png
+│ ├── Quanity.png
+│ ├── Transactions.png
+│ ├── Average 2.png
+│
+├── LICENSE
+├── Mobile Sales Data.xlsx
+├── Mobiles Sales Dashboard.pbix
+├── Motorola Sales Insights Dashboard – Power BI Screenshot.png
+├── README.md
 
 ---
 
@@ -73,7 +86,7 @@ This project was developed as part of a Power BI training by **Mr. Satish Dhawal
 
 ## 🔗 Live GitHub Repo
 
-[👉 View on GitHub](https://github.com/Atharva12072004/PowerBI-Motorola-Sales-Dashboard)
+[👉 View on GitHub](https://github.com/Atharva12072004/Motorola-Sales-Insights-Dashboard-Power-BI-Project/)
 
 ---
 
@@ -81,7 +94,7 @@ This project was developed as part of a Power BI training by **Mr. Satish Dhawal
 
 **Atharva Harane**  
 SQL Developer | Data Analyst | Data Science Enthusiast  
-🌐 [Portfolio Website](https://atharvaharane.netlify.app)
+🌐 [Portfolio Website](https://atharvaharane.netlify.app/)
 
 ---
 
