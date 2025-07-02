@@ -37,21 +37,7 @@ _______________________________________________________________
 
 ## 📂 Folder Structure
 
-Motorola-Sales-Dashboard/
-│
-├── 📁 Day -30 - Icon set/
-│ ├── Motorola.png
-│ ├── Average.png
-│ ├── Max Icon.png
-│ ├── Quanity.png
-│ ├── Transactions.png
-│ ├── Average 2.png
-│
-├── LICENSE
-├── Mobile Sales Data.xlsx
-├── Mobiles Sales Dashboard.pbix
-├── Motorola Sales Insights Dashboard – Power BI Screenshot.png
-├── README.md
+<pre> ```text Motorola-Sales-Dashboard/ │ ├── 📁 Day -30 - Icon set/ │ ├── Motorola.png │ ├── Average.png │ ├── Max Icon.png │ ├── Quanity.png │ ├── Transactions.png │ ├── Average 2.png │ ├── LICENSE ├── Mobile Sales Data.xlsx ├── Mobiles Sales Dashboard.pbix ├── Motorola Sales Insights Dashboard – Power BI Screenshot.png ├── README.md ``` </pre>
 
 ---
 
@@ -68,6 +54,7 @@ Motorola-Sales-Dashboard/
 ## 👨‍🏫 Educator
 
 This project was developed as part of a Power BI training by **Mr. Satish Dhawale** via **Skill Course**. Thanks for the hands-on teaching and real-world case studies!
+[👉 View More](https://skillcourse.in/)
 
 ---
 
