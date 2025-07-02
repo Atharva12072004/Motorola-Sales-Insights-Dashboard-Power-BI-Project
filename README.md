@@ -32,7 +32,7 @@ _______________________________________________________________
 | **DAX**        | Created calculated columns & measures      |
 | **CSV Files**  | Used as data source                        |
 |**Custom Icon** | Used for dashboard styling                 |
-|
+
 ---
 
 ## 📂 Folder Structure
